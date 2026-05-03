@@ -50,3 +50,9 @@ textarea {
   border-radius: 5px;
   padding: 10px;
 }
+
+input,
+input::placeholder,
+textarea {
+  color: whitesmoke;
+}

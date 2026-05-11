@@ -93,3 +93,13 @@ textarea {
   display: block;
   margin: auto;
 }
+
+.submit-btn:focus {
+  outline: 3px solid lightgreen;
+  outline-offset: 2px;
+}
+
+.contact-method-radio-btn:focus {
+  outline: 3px solid lightgreen;
+  outline-offset: 2px;
+}

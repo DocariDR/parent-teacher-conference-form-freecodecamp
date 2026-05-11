@@ -51,6 +51,12 @@ textarea {
   padding: 10px;
 }
 
+input:not(.contact-method-radio-btn):focus,
+textarea:focus {
+  outline: 2px solid royalblue;
+  border-color: royalblue;
+}
+
 input,
 input::placeholder,
 textarea {

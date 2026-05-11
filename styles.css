@@ -46,7 +46,7 @@ input:not(.contact-method-radio-btn),
 textarea {
   background-color: #ffffff1a;
   width: 95%;
-  border: 1px solid gray;
+  border: 1px solid #aaaaaa;
   border-radius: 5px;
   padding: 10px;
 }

@@ -94,6 +94,11 @@ textarea {
   margin: auto;
 }
 
+.submit-btn:hover {
+  background-color: #2952c4; 
+  transition: background-color 0.2s ease;
+}
+
 .submit-btn:focus {
   outline: 3px solid lightgreen;
   outline-offset: 2px;
